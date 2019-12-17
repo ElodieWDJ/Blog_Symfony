@@ -1,0 +1,14 @@
+{% extends 'base.html.twig' %}
+
+{% block content %}
+    Je suis la page de tous les articles
+    <ul>
+        {% for article in articles %}
+
+            <li>{{ article.title }}</li>
+            <li>{{ article.content }}</li>
+
+
+        {% endfor %}
+    </ul>
+{% endblock %}

@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8b25230-2a63-46a0-ad09-2d1f69213c10" name="Default Changelist" comment="" />
+    <list default="true" id="a8b25230-2a63-46a0-ad09-2d1f69213c10" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/twig.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/twig.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/ArticleController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/ArticleController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/AuteurController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/AuteurController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/Test.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/Test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +20,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -124,7 +135,12 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1UZHJn8goPkA8pClTf9nztmZlXk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -134,6 +150,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="Symfony2.SettingsForm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\TpSymfony\src\Form\Blog" />
+      <recent name="C:\wamp64\www\TpSymfony\templates" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -161,7 +183,12 @@
       <workItem from="1575557457390" duration="55000" />
       <workItem from="1575557522732" duration="42000" />
       <workItem from="1575557584189" duration="3392000" />
-      <workItem from="1575627150469" duration="15032000" />
+      <workItem from="1575627150469" duration="15105000" />
+      <workItem from="1575883786198" duration="11594000" />
+      <workItem from="1575966752192" duration="11926000" />
+      <workItem from="1575985727833" duration="6153000" />
+      <workItem from="1576059898829" duration="17544000" />
+      <workItem from="1576525757349" duration="1303000" />
     </task>
     <servers />
   </component>
@@ -177,6 +204,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="285" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1575642396105" />
+    <state x="499" y="166" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1576064148099">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="166" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1576064148099" />
+    <state x="570" y="226" key="NewPhpClassDialog" timestamp="1576062958018">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="570" y="226" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1576062958018" />
     <state x="279" y="57" key="SettingsEditor" timestamp="1575557558455">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -185,5 +220,16 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1575557526590" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/templates/blog/auteurs/create.html.twig</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

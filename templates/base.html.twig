@@ -6,7 +6,9 @@
         {% block stylesheets %}{% endblock %}
     </head>
     <body>
-        {% block body %}{% endblock %}
+        {% include 'menus/menu.html.twig' %}
+        {% block content %}{% endblock %}
         {% block javascripts %}{% endblock %}
+
     </body>
 </html>

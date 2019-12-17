@@ -11,7 +11,6 @@ use Symfony\Component\Routing\Annotation\Route;
 class Test extends AbstractController
 {
     /**
-     * @Route("/blog/article/{theme}", name="test_Hello")
      * @return Response
      */
     function maPageDeTest($theme)
